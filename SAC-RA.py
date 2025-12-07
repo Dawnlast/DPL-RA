@@ -405,7 +405,7 @@ def run_multi_seed(seeds=list(range(0))):
 
     plt.xlabel("Episodes")
     plt.ylabel("Score")
-    plt.title("SAC + Ring Attractor (5 seeds average)")
+    plt.title("SAC + Ring Attractor (1 seed(s) average)")
     plt.legend()
     plt.grid()
     plt.tight_layout()
