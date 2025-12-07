@@ -1,1 +1,1 @@
-This is the diagrams of the results.
+These are the diagrams used in our essay.
